@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="daily_scrum_2_1-7a145e" installOnlyAtStartup="false" version="2.1.0">
+ <names>
+  <name lang="de_DE">Daily Scrum</name>
+  <name lang="en_US">daily scrum</name>
+ </names>
+ <descriptions>
+  <description lang="de_DE">daily scrum, nao as scrum assisstant</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>de_DE</language>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>de_DE</language>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>solitary</nature>
+   <triggerSentences>
+    <sentence lang="de_DE">Hallo Nao</sentence>
+    <sentence lang="en_US">Hey Nao</sentence>
+   </triggerSentences>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+ <requirements>
+  <naoqiRequirement minVersion="2.8" maxVersion="2.8"/>
+  <robotRequirement model="NAO"/>
+ </requirements>
+</package>
