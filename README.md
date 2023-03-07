@@ -27,6 +27,7 @@ You will just need your NAO robot.
 We currently paused working on this project. There will be updates in the future.
 
 ### Choregraphe screenshot:
+![daily_scrum_2_1](https://user-images.githubusercontent.com/68842909/223421540-84d2a84b-3e62-4cad-a03a-8ad7ffe2a770.PNG)
 
 ---
 
